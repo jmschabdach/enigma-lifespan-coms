@@ -22,13 +22,16 @@ Cerebrospinal Fluid
 
 ### Disease Effects At Individual Sites, Divided by Sex
 
-
+White Matter
 ![](figs/sitespecific_WMV.png)
 
+Gray Matter
 ![](figs/sitespecific_GMV.png)
 
+Subcortical Gray Matter
 ![](figs/sitespecific_sGMV.png)
 
+Cerebrospinal Fluid
 ![](figs/sitespecific_Ventricles.png)
 
 
