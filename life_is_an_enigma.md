@@ -2,19 +2,25 @@
 
 ## Overview
 
-4 morphometry measures across all sites
+[Disease Effects](#disease-effects)
 
-## Site-specific Disease Effect per Sex
+## Disease Effects
 
+### Disease Effects Across All Sites, Divided by Sex
+
+White Matter
 ![](figs/allsites_WMV.png)
 
+Gray Matter
 ![](figs/allsites_GMV.png)
 
+Subcortical Gray Matter
 ![](figs/allsites_sGMV.png)
 
+Cerebrospinal Fluid
 ![](figs/allsites_Ventricles.png)
 
-## Individual Site Disease Effect per Sex
+### Disease Effects At Individual Sites, Divided by Sex
 
 
 ![](figs/sitespecific_WMV.png)
