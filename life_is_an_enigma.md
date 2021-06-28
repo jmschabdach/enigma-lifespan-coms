@@ -6,4 +6,6 @@
 
 ## Site-specific Disease Effect per Sex
 
+![Image](figs/allsites_WMV.png)
+
 ## Individual Site Disease Effect per Sex
