@@ -6,13 +6,9 @@ This page is divided into two main sections: whole population and site populatio
 
 ### Disease Effect
 
-<img src="figs/population_diseaseeffect_WMV.png" width="30%"/>
+<img src="figs/population_diseaseeffect_WMV.png" width="50%"/>
 
-![](figs/population_diseaseeffect_GMV.png)
-
-![](figs/population_diseaseeffect_sGMV.png)
-
-![](figs/population_diseaseeffect_Ventricles.png)
+<img src="figs/population_diseaseeffect_GMV.png" width="50%"/>
 
 
 ### Sex Effect
