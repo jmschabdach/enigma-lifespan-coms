@@ -160,18 +160,18 @@ Plot relationship between morphometry and age.
 
 *White Matter Volume*
 
-<img src="figs/sitelevel_gamlss_WMV.png" width="100%"/>
+<img src="figs/sitelevel_gamlss-oos_WMV.png" width="100%"/>
 
 *Gray Matter Volume*
 
-<img src="figs/sitelevel_gamlss_GMV.png" width="100%"/>
+<img src="figs/sitelevel_gamlss-oos_GMV.png" width="100%"/>
 
 *Subcortical Gray Matter Volume*
 
-<img src="figs/sitelevel_gamlss_sGMV.png" width="100%"/>
+<img src="figs/sitelevel_gamlss-oos_sGMV.png" width="100%"/>
 
 *Ventricle Volume*
 
-<img src="figs/sitelevel_gamlss_Ventricles.png" width="100%"/>
+<img src="figs/sitelevel_gamlss-oos_Ventricles.png" width="100%"/>
 
 
