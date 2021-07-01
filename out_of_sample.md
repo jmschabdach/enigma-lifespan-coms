@@ -56,5 +56,60 @@ Plot relationship between morphometry and age.
 
 <img src="figs/population_gamlss_Ventricles.png" width="75%"/>
 
+---
+
+## Site Level Comparisons
+
+### Disease Effect
+
+For male and female subjects, compare the morphometry of the brains of healthy and ill populations.
+
+<img src="figs/sitelevel_diseaseeffect_WMV.png" width="75%"/>
+
+<img src="figs/sitelevel_diseaseeffect_GMV.png" width="75%"/>
+
+<img src="figs/sitelevel_diseaseeffect_sGMV.png" width="75%"/>
+
+<img src="figs/sitelevel_diseaseeffect_Ventricles.png" width="75%"/>
+
+
+### Sex Effect
+
+For healthy and ill subjects, compare the morphometry of the brains of male and female populations.
+
+
+<img src="figs/sitelevel_sexeffect_WMV.png" width="75%"/>
+
+<img src="figs/sitelevel_sexeffect_GMV.png" width="75%"/>
+
+<img src="figs/sitelevel_sexeffect_sGMV.png" width="75%"/>
+
+<img src="figs/sitelevel_sexeffect_Ventricles.png" width="75%"/>
+
+
+### Age Models
+
+*Naive Linear Models*
+
+Plot relationship between morphometry and age.
+
+<img src="figs/sitelevel_linearmodel_WMV.png" width="100%"/>
+
+<img src="figs/sitelevel_linearmodel_GMV.png" width="100%"/>
+
+<img src="figs/sitelevel_linearmodel_sGMV.png" width="100%"/>
+
+<img src="figs/sitelevel_linearmodel_Ventricles.png" width="100%"/>
+
+
+*GAMLSS Models*
+
+<img src="figs/sitelevel_gamlss_WMV.png" width="100%"/>
+
+<img src="figs/sitelevel_gamlss_GMV.png" width="100%"/>
+
+<img src="figs/sitelevel_gamlss_sGMV.png" width="100%"/>
+
+<img src="figs/sitelevel_gamlss_Ventricles.png" width="100%"/>
 
 
