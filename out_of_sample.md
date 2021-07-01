@@ -6,7 +6,7 @@ This page is divided into two main sections: whole population and site populatio
 
 ### Disease Effect
 
-![](figs/population_diseaseeffect_WMV.png)
+<img src="figs/population_diseaseeffect_WMV.png" width="30%"/>
 
 ![](figs/population_diseaseeffect_GMV.png)
 
