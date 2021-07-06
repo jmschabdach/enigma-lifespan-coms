@@ -4,8 +4,8 @@ The statistical analysis overall was performed by normalizing the data and then 
 
 This page is divided into three main sections: 
 
-- [whole population with normalization ignoring sites](#whole-popuation-ignore-sites)
-- [whole population with normalization incorporating sites](#whole-popuation-incorporate-sites)
+- [whole population with normalization ignoring sites](#whole-population-normalization-ignoring-sites)
+- [whole population with normalization incorporating sites](#whole-population-normalization-incorporating-sites)
 - [site populations with normalization incorporating sites]
 
 The normalization process uses a previously trained statistical model of one of four brain morphometrics: white matter volume, gray matter volume, subcortical gray matter volume, and volume of cerebrospinal fluid in the ventricles. The preexisting model and a data frame containing covariates and raw morphometries for new data are passed to the following function. The function uses the model as a baseline and normalizes the new data to it.
@@ -51,7 +51,7 @@ The new data parameter for this function varies depending on the desired type of
 
 In the following sections, there are subsections for the disease and sex effects as well as the age models.
 
-## <a name="whole-population-ignore-sites">Whole Population: Normalization Ignoring Sites</a>
+## Whole Population: Normalization Ignoring Sites
 
 In R, the normalization ignoring sites uses two functions.
 
