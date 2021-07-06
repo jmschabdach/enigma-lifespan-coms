@@ -5,8 +5,8 @@ The statistical analysis overall was performed by normalizing the data and then 
 This page is divided into three main sections: 
 
 - [whole population with normalization ignoring sites](#whole-population-normalization-ignoring-sites)
-- [whole population with normalization incorporating sites](#whole-population-normalization-incorporating-sites)
-- [site populations with normalization incorporating sites]
+- [whole population with normalization incorporating sites](#whole-population-site-level-normalization)
+- [site populations with normalization incorporating sites](#site-level-comparisons-site-level-normalization)
 
 The normalization process uses a previously trained statistical model of one of four brain morphometrics: white matter volume, gray matter volume, subcortical gray matter volume, and volume of cerebrospinal fluid in the ventricles. The preexisting model and a data frame containing covariates and raw morphometries for new data are passed to the following function. The function uses the model as a baseline and normalizes the new data to it.
 
@@ -149,11 +149,11 @@ Plot relationship between morphometry and age.
 
 ---
 
-## [Whole Population Figures: Site Level Normalization](#whole-population-normalize-sites)
+## Whole Population: Site Level Normalization
 
 ---
 
-## [Site Level Comparisons: Site Level Normalization](#site-level-comparisons)
+## Site Level Comparisons: Site Level Normalization
 
 ### Disease Effect
 
