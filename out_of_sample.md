@@ -51,7 +51,7 @@ The new data parameter for this function varies depending on the desired type of
 
 In the following sections, there are subsections for the disease and sex effects as well as the age models.
 
-## [Whole Population: Normalization Ignoring Sites](#whole-popuation-ignore-sites)
+## <a name="whole-population-irgnore-sites">Whole Population: Normalization Ignoring Sites</a>
 
 In R, the normalization ignoring sites uses two functions.
 
