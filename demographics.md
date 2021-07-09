@@ -2,6 +2,7 @@
 
 The following table contains the counts of sex and diagnosis for each site
 
+Table 1: The number of subjects of each sex and each diagnostic group across all sites.
 | Site | Sex: Female (Male) | Diagnosis: Control (Case) |
 |------|--------------------|---------------------------|
 |    1 |            46 (52) |                   43 (55) |      
@@ -15,7 +16,11 @@ The following table contains the counts of sex and diagnosis for each site
 |    9 |            58 (57) |                   42 (73) |
 
 
+Distribution of ages for cases and controls across all sites.
+
 ![](figs/sitespecific_original_age.png)
+
+
 
 ## Cleaned Data
 
@@ -61,6 +66,7 @@ for(s in sort(unique(mydata$site))){
 
 Only 3 sites had statistically significant relationships between covariates. The distributions of coviarates are as follows after performing matching on those sites.
 
+Table 2. The number of subjects of each sex and each diagnostic group for the newly matched sites.
 | Site | Sex: Female (Male) | Diagnosis: Control (Case) |
 |------|--------------------|---------------------------|
 |    3 |            30 (24) |                   27 (27) |
@@ -68,5 +74,6 @@ Only 3 sites had statistically significant relationships between covariates. The
 |    8 |             9 (15) |                   12 (12) |
 
 
+Distribution of ages for cases and controls across all sites, post matching.
 
 ![](figs/sitespecific_postmatching_age.png)
